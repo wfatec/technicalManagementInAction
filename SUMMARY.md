@@ -7,4 +7,5 @@
 * [我要不要转回去做技术呢？](wo-yao-bu-yao-zhuan-hui-qu-zuo-ji-shu-ne.md)
 * [作为技术管理者，我如何保持技术判断力](zuo-wei-ji-shu-guan-li-zhe-wo-ru-he-bao-chi-ji-shu-pan-duan-li.md)
 * [我这样的风格能做管理吗？](wo-zhe-yang-de-feng-ge-neng-zuo-guan-li-ma.md)
+* [我能做好管理吗，大家服我吗？](wo-neng-zuo-hao-guan-li-ma-da-jia-fu-wo-ma.md)
 
