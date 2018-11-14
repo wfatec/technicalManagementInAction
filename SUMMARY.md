@@ -8,4 +8,5 @@
 * [作为技术管理者，我如何保持技术判断力](zuo-wei-ji-shu-guan-li-zhe-wo-ru-he-bao-chi-ji-shu-pan-duan-li.md)
 * [我这样的风格能做管理吗？](wo-zhe-yang-de-feng-ge-neng-zuo-guan-li-ma.md)
 * [我能做好管理吗，大家服我吗？](wo-neng-zuo-hao-guan-li-ma-da-jia-fu-wo-ma.md)
+* [如何为团队设立合理的目标](ru-he-wei-tuan-dui-she-li-he-li-de-mu-biao.md)
 
