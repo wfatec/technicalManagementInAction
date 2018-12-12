@@ -11,4 +11,5 @@
 * [如何为团队设立合理的目标](ru-he-wei-tuan-dui-she-li-he-li-de-mu-biao.md)
 * [团队建设该从哪里入手？](tuan-dui-jian-she-gai-cong-na-li-ru-shou.md)
 * [如何兼顾团队分工的稳定性和灵活性？](ru-he-jian-gu-tuan-dui-fen-gong-de-weng-ding-xing-he-ling-huo-xing.md)
+* [如何让流程机制得到有效的执行?](ru-he-rang-liu-cheng-ji-zhi-de-dao-you-xiao-zhi-xing.md)
 
