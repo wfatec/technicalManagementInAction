@@ -13,4 +13,5 @@
 * [如何兼顾团队分工的稳定性和灵活性？](ru-he-jian-gu-tuan-dui-fen-gong-de-weng-ding-xing-he-ling-huo-xing.md)
 * [如何让流程机制得到有效的执行?](ru-he-rang-liu-cheng-ji-zhi-de-dao-you-xiao-zhi-xing.md)
 * [管理沟通上有哪些常见的坑?](guan-li-gou-tong-shang-you-na-xie-chang-jian-de-keng.md)
+* [流程机制建设及落地](liu-cheng-ji-zhi-jian-she-ji-luo-di.md)
 
